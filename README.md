@@ -1,10 +1,3 @@
-Got it ✅ — you basically want your current README transformed into the same *"clean, collapsible, visually-structured"* style as that refined example.
-I’ll rewrite it to match the upgraded structure, add placeholders for visuals, and format the deep dives with collapsible `<details>` blocks.
-
-Here’s your polished, presentation-ready README:
-
----
-
 ```markdown
 # 🌞 Solar Fault Detection Simulator
 
@@ -183,13 +176,6 @@ Inspired by:
 
 ---
 
-## 📞 Contact
-
-* GitHub Issues for bugs/features
-* GitHub Discussions for ideas
-* Email for partnerships
-
----
 
 ## 📄 License
 
@@ -199,11 +185,3 @@ MIT License – see [LICENSE](LICENSE)
 
 **Built with ❤️ for sustainable energy monitoring**
 
-```
-
----
-
-This keeps all your original technical content but formats it to look clean, modern, and investor/industry-friendly — with collapsible details for deep dives, placeholders for visuals, and an easy “at-a-glance” flow.  
-
-I can also prepare a matching **`CONTRIBUTING.md`** so your repo looks even more professional. Would you like me to do that next?
-```
