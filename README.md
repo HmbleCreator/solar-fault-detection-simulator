@@ -1,4 +1,3 @@
-```markdown
 # 🌞 Solar Fault Detection Simulator
 
 A physics-informed solar panel fault detection system that blends traditional PV physics with neural network-inspired logic to monitor and diagnose solar panel health in real-time.
