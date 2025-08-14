@@ -11,8 +11,13 @@ Python-based solar fault detection simulator with a real-time Streamlit dashboar
 ---
 
 ## 📸 Screenshots & Visuals
+<img width="2871" height="1538" alt="Screenshot 2025-08-14 110637" src="https://github.com/user-attachments/assets/82b8ad20-c0e6-4e72-a90f-a4bd78e8ac42" />
 
-> _Add dashboard screenshots, architecture diagrams, or demo GIFs here._
+<img width="2419" height="1521" alt="Screenshot 2025-08-14 110721" src="https://github.com/user-attachments/assets/8888f6fa-8547-481d-8414-0727451e80f7" />
+
+<img width="2115" height="1182" alt="Screenshot 2025-08-14 110900" src="https://github.com/user-attachments/assets/494d5484-9b5e-46b8-b4ed-c3c8bf77e9f5" />
+
+<img width="2185" height="1501" alt="Screenshot 2025-08-14 110930" src="https://github.com/user-attachments/assets/d1bd3177-f677-4db3-ae40-ce6a3246ad0a" />
 
 ---
 
@@ -62,8 +67,8 @@ solar-fault-sim/
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd solar-fault-sim
+git clone [<repository-url>](https://github.com/HmbleCreator/solar-fault-detection-simulator)
+cd solar-fault-detection-simulator
 
 # Install dependencies
 pip install -r requirements.txt
