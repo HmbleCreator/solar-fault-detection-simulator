@@ -67,7 +67,7 @@ solar-fault-sim/
 
 ```bash
 # Clone the repository
-git clone [<repository-url>](https://github.com/HmbleCreator/solar-fault-detection-simulator)
+git clone https://github.com/HmbleCreator/solar-fault-detection-simulator
 cd solar-fault-detection-simulator
 
 # Install dependencies
